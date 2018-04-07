@@ -1,3 +1,4 @@
+
 html {
 	position: relative;
 }
@@ -5,7 +6,7 @@ html, body {
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	background-color: #efefef;
-	background: #efefef;
+	background: #efefef url("../images/shattered.png");
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,6 +25,7 @@ h1 {
 h2 {
 	font-size: 1.3em;
 }
+
 
 header {
 	width: 100%;
@@ -164,7 +166,7 @@ img {
 
 
 .contact {
-	width: 960px;
+	width: 540px;
 }
 
 .contact label {
