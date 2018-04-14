@@ -127,8 +127,8 @@ header .container {
 img.headshot {
 	float: left;
 	padding: 0 1em 1em 0;
-	width: 200px;
-	height: 200px;
+	width: 400px;
+	height: 300px;
 }
 
 
@@ -246,7 +246,10 @@ img {
 	width: 60px;
 	height: auto;
 }
-
+.responsive {
+    width: 100%;
+    height: auto;
+}
 
 footer {
 	position: absolute;
